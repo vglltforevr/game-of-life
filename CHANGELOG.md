@@ -1,10 +1,12 @@
-<a name="0.1.0-SNAPSHOT"></a>
-# 0.1.0-SNAPSHOT (2017-07-08)
+
+<a name="0.1.1"></a>
+## 0.1.1 (2017-07-08)
 
 
 ### Bug Fixes
 
 * fix new bug ([bc06588](https://github.com/vglltforevr/game-of-life/commit/bc06588))
+* fix package ([fe42ae0](https://github.com/vglltforevr/game-of-life/commit/fe42ae0))
 
 
 ### Features
